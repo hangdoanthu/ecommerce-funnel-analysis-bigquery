@@ -60,8 +60,6 @@ Analysis of a 5,000-user e-commerce dataset to understand where customers drop o
 | Add to Cart → Purchase | avg. 13 minutes |
 | Full journey (View → Purchase) | avg. 25 minutes |
 
-*(Run Query 3 in BigQuery to fill in actual values)*
-
 ---
 
 ### 4 · Revenue Metrics
